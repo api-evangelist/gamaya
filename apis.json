@@ -1,0 +1,57 @@
+{
+    "name": "Gamaya",
+    "description": "<p>Gamaya is a data analytics company that empowers farmers with unprecedented in-depth understanding of their lands and crops using unique hyperspectral imaging and artificial intelligence. We translate the data from the cameras into actionable information for agricultural businesses using a simple and cost effective hyperspectral remote sensing methodology.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/gamaya-logo.jpeg",
+    "tags": [
+        "api not found",
+        "drones",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/gamaya\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Gamaya",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/gamaya-logo.jpeg",
+            "humanURL": "http:\/\/gamaya.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/gamaya-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/gamaya-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/gamaya.com\/blog\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/gamaya.com\/blog\/feed\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/GamayaSpectral"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/GamayaNews"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/gamaya.com\/"
+        }
+    ]
+}
